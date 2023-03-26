@@ -1,1 +1,1 @@
-# CoRise_Project
+# CoRise_Project - Launching Airbnb in Sydney
